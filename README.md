@@ -122,15 +122,15 @@ nurse-and-glow/
 └── README.md
 ```
 
----
 
 ## 🖼️ Screenshots
+![image](https://github.com/user-attachments/assets/256669a6-1e73-4225-ab7c-152fc5bc9135)
 
-- `kubectl get pods` showing both services running
-- Prometheus targets page with all services listed and UP
-- Grafana dashboards showing:
-  - `user_registrations_total`
-  - `appointment_requests_total`
+![appointments](https://github.com/user-attachments/assets/f371889a-4313-40f6-8426-d03735629688)
+
+![user_registration](https://github.com/user-attachments/assets/241ecf3c-3084-4a4e-ad8d-1fb854c04fdf)
+
+
 
 ---
 
